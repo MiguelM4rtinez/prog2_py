@@ -13,6 +13,9 @@ personal_info = {
 print(type (nombre))
 print(type (edad))
 print(type (casado))
-print(type ())
-print("me la como entera")
-print(type (nombre))
+print(type (asignatura))
+print(type(personal_info))
+
+
+print("el nombre es:", nombre)
+print("el apellido es:", apellido)

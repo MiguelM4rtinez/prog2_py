@@ -1,0 +1,7 @@
+print("suma:", 1+2)
+print("resta:", 2-1)
+print("multiplicacion:", 2+3)
+print("division:", 4/2)
+print("exponentes:", 3**2)
+print("modulo:", 3%2)
+print("residuo:", 3//2)
